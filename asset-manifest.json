@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ardesignstudio/static/css/main.efdd8b5c.chunk.css",
+    "main.js": "/ardesignstudio/static/js/main.0ed0fa56.chunk.js",
+    "main.js.map": "/ardesignstudio/static/js/main.0ed0fa56.chunk.js.map",
+    "runtime-main.js": "/ardesignstudio/static/js/runtime-main.2ac68acf.js",
+    "runtime-main.js.map": "/ardesignstudio/static/js/runtime-main.2ac68acf.js.map",
+    "static/js/2.d430c578.chunk.js": "/ardesignstudio/static/js/2.d430c578.chunk.js",
+    "static/js/2.d430c578.chunk.js.map": "/ardesignstudio/static/js/2.d430c578.chunk.js.map",
+    "static/js/3.192657c4.chunk.js": "/ardesignstudio/static/js/3.192657c4.chunk.js",
+    "static/js/3.192657c4.chunk.js.map": "/ardesignstudio/static/js/3.192657c4.chunk.js.map",
+    "index.html": "/ardesignstudio/index.html",
+    "static/css/main.efdd8b5c.chunk.css.map": "/ardesignstudio/static/css/main.efdd8b5c.chunk.css.map",
+    "static/js/2.d430c578.chunk.js.LICENSE.txt": "/ardesignstudio/static/js/2.d430c578.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ardesignstudio/static/media/BgImage.eabcdb96.svg",
+    "static/media/Contact.966f4104.svg": "/ardesignstudio/static/media/Contact.966f4104.svg",
+    "static/media/logo.c20cf172.svg": "/ardesignstudio/static/media/logo.c20cf172.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ac68acf.js",
+    "static/js/2.d430c578.chunk.js",
+    "static/css/main.efdd8b5c.chunk.css",
+    "static/js/main.0ed0fa56.chunk.js"
+  ]
+}
