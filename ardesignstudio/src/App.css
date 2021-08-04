@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 100%;
+  margin-top: 1rem;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-scale infinite 5s cubic-bezier(1, 0, 0, 2) alternate-reverse;
+  }
+}
+
+.fontStyle1 {
+  font-family: "Aguafina Script";
+  font-size: 400%;
+}
+
+.EmailContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ContainerStyle {
+width: 280px;
+height: 48px;
+display: flex;
+border: none;
+margin-right: 1rem;
+border-radius: 6px;
+border-color: #FFFFFF;
+}
+
+.Contactform {
+display:flex;
+flex-direction:column;
+margin-bottom: 2rem;
+align-items: flex-start;
+row-gap: 0.25rem;
+
+}
+
+.ButtonStyle {
+  width: 99px;
+  height: 48px;
+  border: 1px solid #FFFFFF;  
+  border-radius: 6px;
+  color: #FFFFFF;
+  background: transparent;
+}
+
+.App-header {
+  background-image: url("./BgImage.svg");
+  height:fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: (10px + 2vmin);
+  color: white;
+}
+
+
+.Contact {
+height: 50;
+margin-bottom: 1rem;
+}
+
+@keyframes App-logo-scale {
+  from {
+    transform: scale(50%);
+
+  }
+}
