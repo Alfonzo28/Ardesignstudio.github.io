@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Contact from './Contact.svg';
+import HelmetComponent from './Components/Helmet/HelmetComponent'
 
 function App() {
   return (
@@ -23,8 +24,7 @@ function App() {
 
 
 <img src={Contact} className="Contact" alt="contact"/>
-
-
+<HelmetComponent/>
     </div>
   );
 }
