@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ardesignstudio/static/css/main.6bede114.chunk.css",
-    "main.js": "/ardesignstudio/static/js/main.bb81addb.chunk.js",
-    "main.js.map": "/ardesignstudio/static/js/main.bb81addb.chunk.js.map",
-    "runtime-main.js": "/ardesignstudio/static/js/runtime-main.2ac68acf.js",
-    "runtime-main.js.map": "/ardesignstudio/static/js/runtime-main.2ac68acf.js.map",
-    "static/js/2.d430c578.chunk.js": "/ardesignstudio/static/js/2.d430c578.chunk.js",
-    "static/js/2.d430c578.chunk.js.map": "/ardesignstudio/static/js/2.d430c578.chunk.js.map",
-    "static/js/3.192657c4.chunk.js": "/ardesignstudio/static/js/3.192657c4.chunk.js",
-    "static/js/3.192657c4.chunk.js.map": "/ardesignstudio/static/js/3.192657c4.chunk.js.map",
+    "main.css": "/ardesignstudio/static/css/main.45297933.chunk.css",
+    "main.js": "/ardesignstudio/static/js/main.4d6fd894.chunk.js",
+    "main.js.map": "/ardesignstudio/static/js/main.4d6fd894.chunk.js.map",
+    "runtime-main.js": "/ardesignstudio/static/js/runtime-main.2ca7f84a.js",
+    "runtime-main.js.map": "/ardesignstudio/static/js/runtime-main.2ca7f84a.js.map",
+    "static/js/2.716789dc.chunk.js": "/ardesignstudio/static/js/2.716789dc.chunk.js",
+    "static/js/2.716789dc.chunk.js.map": "/ardesignstudio/static/js/2.716789dc.chunk.js.map",
+    "static/js/3.4d16028e.chunk.js": "/ardesignstudio/static/js/3.4d16028e.chunk.js",
+    "static/js/3.4d16028e.chunk.js.map": "/ardesignstudio/static/js/3.4d16028e.chunk.js.map",
     "index.html": "/ardesignstudio/index.html",
-    "static/css/main.6bede114.chunk.css.map": "/ardesignstudio/static/css/main.6bede114.chunk.css.map",
-    "static/js/2.d430c578.chunk.js.LICENSE.txt": "/ardesignstudio/static/js/2.d430c578.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ardesignstudio/static/media/BgImage.eabcdb96.svg",
-    "static/media/Contact.966f4104.svg": "/ardesignstudio/static/media/Contact.966f4104.svg",
-    "static/media/logo.92116d27.svg": "/ardesignstudio/static/media/logo.92116d27.svg"
+    "static/css/main.45297933.chunk.css.map": "/ardesignstudio/static/css/main.45297933.chunk.css.map",
+    "static/js/2.716789dc.chunk.js.LICENSE.txt": "/ardesignstudio/static/js/2.716789dc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ardesignstudio/static/media/BgImage.10637138.svg",
+    "static/media/Contact.5e1e37d3.svg": "/ardesignstudio/static/media/Contact.5e1e37d3.svg",
+    "static/media/logo.f3dc67f0.svg": "/ardesignstudio/static/media/logo.f3dc67f0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ac68acf.js",
-    "static/js/2.d430c578.chunk.js",
-    "static/css/main.6bede114.chunk.css",
-    "static/js/main.bb81addb.chunk.js"
+    "static/js/runtime-main.2ca7f84a.js",
+    "static/js/2.716789dc.chunk.js",
+    "static/css/main.45297933.chunk.css",
+    "static/js/main.4d6fd894.chunk.js"
   ]
 }
